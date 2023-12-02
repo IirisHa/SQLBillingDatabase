@@ -1,2 +1,2 @@
 # SQLHarjoitustyo
-This is a database that stores billing information. The database stores the customer and service provider information, payment method, product, product connection, invoice status, and postal numbers.
+This is a database that stores billing information. It has the customer and service provider's information, payment method, product, product connection, invoice status and postal numbers.
